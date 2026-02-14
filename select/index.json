@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "僕の言葉ではない これは僕達の言葉　(album ver.)",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-14T13:57:59.779027Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕の言葉ではない これは僕達の言葉",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_僕の言葉ではない_これは僕達の言葉_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕の言葉ではない これは僕達の言葉 (album ver.)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_僕の言葉ではない_これは僕達の言葉_(album_ver.)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕の言葉ではない これは僕達の言葉",
+      "artist": "Uverworld",
+      "has_synced": true,
+      "path": "select/03_僕の言葉ではない_これは僕達の言葉_Uverworld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "僕の言葉ではない これは僕達の言葉(TV size)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/04_僕の言葉ではない_これは僕達の言葉(TV_size)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "僕の言葉ではない これは僕達の言葉 (TV size)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/05_僕の言葉ではない_これは僕達の言葉_(TV_size)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "僕の言葉ではない これは僕達の言葉",
+      "artist": "Uverworld",
+      "has_synced": false,
+      "path": "select/06_僕の言葉ではない_これは僕達の言葉_Uverworld.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕の言葉ではない これは僕達の言葉",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_僕の言葉ではない_これは僕達の言葉_UVERworld.txt"
+    }
+  ]
+}
